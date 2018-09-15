@@ -1,0 +1,14 @@
+<library path="lib/libtestbench_sensor_status">
+  <class name="TestbenchSensorStatus" type="TestbenchSensorStatus" base_class_type="rqt_gui_cpp::Plugin">
+    <description>
+      Testbench Sensor Status status plugin
+    </description>
+    <qtgui>
+      <group>
+        <label>Roboy</label>
+      </group>
+      <label>testbench sensor status</label>
+      <statustip>Great user interface to provide real value.</statustip>
+    </qtgui>
+  </class>
+</library>
